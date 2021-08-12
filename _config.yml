@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Justin Lantigua"
 description:	       "This is the main site for all blogs and publication of my artworks/projects. Commerical use of my intellectual property without permission is forbidden. All rights reserved. "
-Author:               "JustinLantigua"
+Author:               "RealSins Studios"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
